@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/stray-enhypink/static/css/main.ea4090fc.css",
+    "main.js": "/stray-enhypink/static/js/main.71652ecb.js",
+    "static/js/787.9af1218b.chunk.js": "/stray-enhypink/static/js/787.9af1218b.chunk.js",
+    "static/media/shout_out.mp3": "/stray-enhypink/static/media/shout_out.ab5594a6c563db3035ce.mp3",
+    "static/media/happiest_girl.mp3": "/stray-enhypink/static/media/happiest_girl.2c3b4c1528d9d99218c4.mp3",
+    "static/media/grow_up.mp3": "/stray-enhypink/static/media/grow_up.28b68e8778d792ec0d8b.mp3",
+    "static/media/dont_know_what_to_do.mp3": "/stray-enhypink/static/media/dont_know_what_to_do.b59f7847a5fbbb24191d.mp3",
+    "static/media/go_big.mp3": "/stray-enhypink/static/media/go_big.71b46dfaca53fe298267.mp3",
+    "static/media/get_cool.mp3": "/stray-enhypink/static/media/get_cool.8b1f358e4d327c708df2.mp3",
+    "static/media/charmer.mp3": "/stray-enhypink/static/media/charmer.ec638795eb5ad6923aca.mp3",
+    "static/media/polaroid_love.mp3": "/stray-enhypink/static/media/polaroid_love.6752deb165f32f29bbbb.mp3",
+    "static/media/typa_girl.mp3": "/stray-enhypink/static/media/typa_girl.d58a01f548d5f909d15c.mp3",
+    "static/media/stray_enhypink.png": "/stray-enhypink/static/media/stray_enhypink.c7f356375c158469ef66.png",
+    "static/media/9.png": "/stray-enhypink/static/media/9.eda377b534c97e5e0498.png",
+    "static/media/1.png": "/stray-enhypink/static/media/1.d237585b726f48da1e9c.png",
+    "static/media/8.png": "/stray-enhypink/static/media/8.10c093b2f1ee66e2037a.png",
+    "static/media/4.png": "/stray-enhypink/static/media/4.08c3c610adb6592674d6.png",
+    "static/media/5.png": "/stray-enhypink/static/media/5.076b082dfa9df0a5cde1.png",
+    "static/media/2.png": "/stray-enhypink/static/media/2.02d46d49722a0e3c95bd.png",
+    "index.html": "/stray-enhypink/index.html",
+    "main.ea4090fc.css.map": "/stray-enhypink/static/css/main.ea4090fc.css.map",
+    "main.71652ecb.js.map": "/stray-enhypink/static/js/main.71652ecb.js.map",
+    "787.9af1218b.chunk.js.map": "/stray-enhypink/static/js/787.9af1218b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea4090fc.css",
+    "static/js/main.71652ecb.js"
+  ]
+}
