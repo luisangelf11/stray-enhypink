@@ -1,0 +1,96 @@
+.reproducer{
+    width: 570px;
+    height: 380px;
+    box-shadow: 10px 10px 20px 5px #ccc;
+    margin: 7rem auto;
+    border-radius: 1%;
+    background-color: #fff;
+}
+
+/*Panel of buttons*/
+
+.btn{
+    font-size:35px;
+    padding: 5px;
+    transition: all .2s ease-in;
+    cursor: pointer;
+    margin-top: 5px;
+    margin-left: 5px;
+    box-shadow: 2px 2px 2px 2px #8b8b8b;
+    border-radius: 15%;
+    color: #8b8b8b;
+}
+
+.btn:hover{
+    /* opacity: .75; */
+    color: #222;
+    box-shadow: 0px 0px 0px 0px #57606f;
+}
+
+.btn-menu, .btn-random{
+    font-size: 20px;
+    color: #8b8b8b;
+    padding: 10px;
+    transition: all .5s ease-in;
+    cursor: pointer;
+}
+
+.btn-random:hover{
+    /* opacity: .75; */
+    color: #222;
+}
+
+.btn-menu:hover{
+    /* opacity: .75; */
+    color: #222;
+}
+
+.panel-buttons{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    margin:20px auto;
+}
+
+/*Song panel*/
+
+.song{
+    border-top-left-radius: 1%;
+    border-top-right-radius: 1%;
+    width: 100%;
+    height: 300px;
+    background-color: rgb(223, 223, 223);
+}
+
+.song h3{
+    text-align: center;
+    text-transform: uppercase;
+    color: #222;
+    letter-spacing: 5px;
+    text-shadow: 2px 2px green;
+}
+
+.song p{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.song img{
+    width: 150px;
+    height: auto;
+    border-radius: 20%;
+    margin: auto;
+    padding:20px;
+    display: block;
+}
+
+/*RESPONSIVE DESIGN*/
+
+@media (max-width: 700px) {
+    .reproducer{
+        width: 280px;
+        border-radius: 2%;
+    }
+}
