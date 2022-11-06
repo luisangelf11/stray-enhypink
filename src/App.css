@@ -1,3 +1,5 @@
 body{
-  background-color: rgb(255, 241, 241);
+ /*  background-color: rgb(255, 241, 241); */
+ background-image: url("./image/6078646.jpg");
+ background-size: cover;
 }
